@@ -34,6 +34,7 @@ Obsah Adresára:
 | Priklad_FashionMNIST_Matlab.zip | Demo príklad v Matlabe pre FashionMNIST |
 | Programy_Zadanie1_Matlab.zip | Demo príklad v Matlabe pre rozpoznávanie číslic - MLP a CNN |
 | Demogesta_Matlab.zip | Demo príklad v Matlabe pre rozpoznávanie dynamických gest - LSTM |
+| IRIS_klasifikacia.zip | Demo príklad klasifikácie IRIS kvetov pomocou MLP a SVM - Python |
 | HNS_Zadanie1.pdf | Dokument zadania 1 |
 | utils.zip | Podporné programy k zadaniu, rezanie dát na časové okná, počítanie príznakov, ... |
 
