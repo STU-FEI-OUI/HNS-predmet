@@ -52,7 +52,7 @@ Dataset a Programy k Zadaniu 2: [GoogleDisk - HNS/Cvicenia/Zadanie1](https://dri
 ### Projekt 1:
 [Projekt 1 - Porovnanie štruktúr neurónových modelov pri úlohe klasifikácie obrazov](Zadania/HNS_Projekt1.pdf)
 
-[Datasety k Projektu 1](https://github.com/STU-FEI-OUI/HNS-Projekt1)
+[Datasety a programy k Projektu 1](https://github.com/STU-FEI-OUI/HNS-Projekt1)
 
 
 ### Projekt 2:
