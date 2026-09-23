@@ -58,7 +58,7 @@ Dataset a Programy k Zadaniu 2: [GoogleDisk - HNS/Cvicenia/Zadanie1](https://dri
 ### Projekt 2:
 [Projekt 2 - Aplikačné úlohy klasifikácie s realizáciou na kamere](Zadania/HNS_Projekt2.pdf)
 
-[Datasety k Projektu 2](https://github.com/STU-FEI-OUI/HNS-Projekt1)
+[Datasety a programy k Projektu 2](https://github.com/STU-FEI-OUI/HNS-Projekt1)
 
 
 ## Príklady programov:
