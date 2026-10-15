@@ -47,7 +47,7 @@ Literatúra:
 ### Zadania 2:
 [Zadanie 2 - Detekcia objektov](Zadania/HNS_Zadanie2.pdf)
 
-Dataset a Programy k Zadaniu 2: [GoogleDisk - HNS/Cvicenia/Zadanie1](https://drive.google.com/drive/folders/11j4FFFKerQn-D_06xCKMpK6MajYdHAc3?usp=drive_link)
+Dataset a Programy k Zadaniu 2: [GoogleDisk - HNS/Cvicenia/Zadanie2](https://drive.google.com/drive/folders/1QcswFcZ1FPBEZM2TyV8x0bvTimcJgAfQ?usp=drive_link)
 
 ### Projekt 1:
 [Projekt 1 - Porovnanie štruktúr neurónových modelov pri úlohe klasifikácie obrazov](Zadania/HNS_Projekt1.pdf)
